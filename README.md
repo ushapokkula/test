@@ -1,2 +1,2 @@
 # test
-Ruby Automation Test
+Ruby Automation Test to run the scripts
